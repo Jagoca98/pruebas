@@ -1,0 +1,3 @@
+/home/jaime/Desktop/pruebas/pic_practices-master/build/CMakeFiles/rebuild_cache.dir
+/home/jaime/Desktop/pruebas/pic_practices-master/build/CMakeFiles/practica8.dir
+/home/jaime/Desktop/pruebas/pic_practices-master/build/CMakeFiles/edit_cache.dir

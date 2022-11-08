@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaime/Desktop/pruebas/pic_practices-master/practica8.cpp
+opencv2/opencv.hpp
+/home/jaime/Desktop/pruebas/pic_practices-master/opencv2/opencv.hpp
+opencv2/core/core.hpp
+/home/jaime/Desktop/pruebas/pic_practices-master/opencv2/core/core.hpp
+opencv2/imgproc/imgproc.hpp
+/home/jaime/Desktop/pruebas/pic_practices-master/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/jaime/Desktop/pruebas/pic_practices-master/opencv2/highgui/highgui.hpp
+iostream
+-
+
